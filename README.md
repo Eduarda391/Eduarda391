@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Eduarda391/Eduarda391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, eu sou Maria Eduarda 👋
+🎓 Estudante do curso Técnico em Informática no IFRN.
+Aprender novas tecnologias e boas práticas de desenvolvimento.
+🚀 Atualmente estudando Java Script 
+📌 Projetos em destaque
+📚 Sempre aprendendo algo novo. 
+🛠️ Tecnologias
+Python
+JavaScript
+SQL
+GitHub
+HTML & CSS
